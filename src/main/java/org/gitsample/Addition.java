@@ -11,6 +11,7 @@ public class Addition {
 	
 	}
 	
+	// new kine to be added into an Git version 
 	
 
 }
